@@ -1,0 +1,19 @@
+Nombre: Panadería "Colocate Con Pan"
+
+Productos y Precios:
+- Barra de pan rústica: 1.20€
+- Baguette tradicional: 1.00€
+- Hogaza de masa madre (1kg): 3.50€0
+- Croissant de mantequilla: 1.50€
+- Napolitana de chocolate: 1.80€
+- Empanada de atún (porción): 2.50€
+- Tarta de queso (entera): 25.00€
+- Café para llevar: 1.50€
+
+Horario de atención:
+- Lunes a Viernes: 7:00 AM - 8:30 PM
+- Sábado y Domingo: 8:00 AM - 3:00 PM
+
+Política de encargos:
+- Las tartas deben encargarse con 24 horas de antelación.
+- Hacemos pan sin gluten solo por encargo.
